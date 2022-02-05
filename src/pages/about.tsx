@@ -11,7 +11,7 @@ const Page: NextPage = () => {
         <section className="about">
           <h1 className="about__title">About</h1>
           <div className="about__body">
-            <p>Team Blog Hub</p>
+            <p>Blog Hub</p>
           </div>
           <div className="about__actions">
             <LinkBackHome />

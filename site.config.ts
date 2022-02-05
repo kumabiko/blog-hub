@@ -1,7 +1,7 @@
 export const config = {
   siteMeta: {
     title: "Blog Hub",
-    teamName: "coolbruin",
+    teamName: "nousbear",
     description: "RSS based blog",
   },
   siteRoot:
@@ -15,7 +15,7 @@ export const config = {
     },
     {
       title: "GitHub",
-      href: "https://github.com/coolbruin/blog-hub",
+      href: "https://github.com/nousbear/blog-hub",
     },
     {
       title: "Thanks",
